@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>frame24.jpg</filename>
+	<path>C:\Users\pc\Desktop\New folder\frame24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>375</ymin>
+			<xmax>979</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>388</ymin>
+			<xmax>240</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

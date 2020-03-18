@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>frame571.jpg</filename>
+	<path>C:\Users\pc\Desktop\New folder\frame571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymin>476</ymin>
+			<xmax>1181</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>411</ymin>
+			<xmax>447</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>314</ymin>
+			<xmax>79</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>
